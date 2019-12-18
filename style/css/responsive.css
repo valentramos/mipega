@@ -1,0 +1,97 @@
+@media only screen and (max-width:991px) {
+    .navbar-collapse .navbar-nav .nav-item {
+        font-size: 18px;
+        margin: 5px 0
+    }
+    .navbar-light .navbar-brand {
+        width: 80%;
+    }
+    .navbar-light .navbar-brand img {
+        width: 100%;
+    }
+    .navbar {
+        background: #fff
+    }
+
+    .navbar .navbar-brand.light {
+        color: #212121
+    }
+
+    .navbar .navbar-brand.light:hover {
+        color: #212121
+    }
+
+    .navbar .navbar-nav.light a.nav-item.nav-link {
+        color: #5a5a5a
+    }
+
+    .navbar .navbar-nav.light a.nav-item.nav-link.active {
+        color: #212121
+    }
+
+    #features-parallax img.back {
+        left: -15% !important
+    }
+
+    #features-parallax img.front {
+        left: 0 !important
+    }
+
+    #faq-parallax img.back {
+        left: -15% !important
+    }
+
+    #faq-parallax img.front {
+        left: 0 !important
+    }
+
+    .price-block ul li:before {
+        left: 80px
+    }
+}
+
+@media only screen and (max-width:768px) {
+
+    .home .home-description .title,
+    .home-no_bg .home-description .title,
+    .home-gradient .home-description .title {
+        font-size: 36px
+    }
+
+    .price-block ul li:before {
+        left: 60px
+    }
+    .navbar-light .navbar-brand {
+        width: 60%;
+    }
+    .navbar-light .navbar-brand img {
+        width: 100%;
+    }
+    .download-button {
+        padding: 5px;
+    }
+}
+
+@media only screen and (max-width:575px) {
+    .price-block ul li:before {
+        left: 110px
+    }
+}
+
+@media only screen and (max-width:500px) {
+    .price-block ul li:before {
+        left: 70px
+    }
+}
+
+@media only screen and (max-width:395px) {
+    .price-block ul li:before {
+        left: 60px
+    }
+}
+
+@media only screen and (max-width:320px) {
+    .button {
+        padding: 10px 40px
+    }
+}

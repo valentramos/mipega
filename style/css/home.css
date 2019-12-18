@@ -1,0 +1,97 @@
+.home::after,
+.home-no_bg::after {
+    content: "";
+    display: block;
+    height: 200px;
+    width: 100%;
+    background: url(../../images/background/2.svg) repeat-x;
+    -webkit-background-size: cover;
+    background-size: cover;
+    position: absolute;
+    bottom: 0;
+    z-index: -1
+}
+
+.home .home-description,
+.home-no_bg .home-description {}
+
+.home .home-description .title,
+.home-no_bg .home-description .title {
+    font-size: 55px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #00366b;
+    margin: 10px 0
+}
+
+.home .home-description .title span.blue,
+.home-no_bg .home-description .title span.blue {
+    color: #1976d2
+}
+
+.home .home-description .title span.purple,
+.home-no_bg .home-description .title span.purple {
+    color: #8a1a26
+}
+
+.home .home-description .title span.green,
+.home-no_bg .home-description .title span.green {
+    color: #3e9816
+}
+
+.home .home-description .text,
+.home-no_bg .home-description .text {
+    font: 15px open sans;
+    color: #5a5a5a;
+    font-weight: 400;
+    margin: 10px 0;
+    line-height: 24px;
+    font-weight: 300
+}
+
+.home-gradient {
+    background: url(../../images/background/gradient.svg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    overflow: hidden
+}
+
+.home-gradient .home-description {}
+
+.home-gradient .home-description .title {
+    font: 55px dosis;
+    font-weight: 600;
+    color: #212121;
+    margin: 10px 0;
+    color: #fff
+}
+
+.home-gradient .home-description .title span.blue {
+    color: #1976d2
+}
+
+.home-gradient .home-description .title span.purple {
+    color: #8264fa
+}
+
+.home-gradient .home-description .title span.green {
+    color: #02a0ba
+}
+
+.home-gradient .home-description .text {
+    font: 15px open sans;
+    color: #5a5a5a;
+    font-weight: 400;
+    margin: 10px 0;
+    line-height: 24px;
+    font-weight: 300;
+    color: #cacaca
+}
+
+.home-no_bg::after {
+    background: 0 0
+}
+
+.home-content {
+    height: 100vh
+}
