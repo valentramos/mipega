@@ -1,0 +1,17 @@
+.screenshots::after,
+.screenshots-no_bg::after {
+    content: "";
+    display: block;
+    height: 170px;
+    width: 100%;
+    background: url(../../images/background/3.svg) repeat-x;
+    -webkit-background-size: cover;
+    background-size: cover;
+    position: absolute;
+    bottom: 0;
+    z-index: -1
+}
+
+.screenshots-no_bg::after {
+    background: 0 0
+}

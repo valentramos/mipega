@@ -1,0 +1,90 @@
+.title-text_xl,
+.title-text_l,
+.title-text_m,
+.title-text_s {
+    font: 55px dosis;
+    font-weight: 600;
+    color: #212121;
+    margin: 10px 0
+}
+
+.title-text_l {
+    font-size: 36px
+}
+
+.title-text_m {
+    font-size: 24px
+}
+
+.title-text_s {
+    font-size: 16px;
+    font-weight: 500
+}
+
+.description-text_m {
+    font: 14px open sans;
+    color: #5a5a5a;
+    font-weight: 400;
+    margin: 10px 0
+}
+
+.description-text_s {
+    font: 14px open sans;
+    font-weight: 300;
+    color: #5a5a5a;
+    margin: 10px 0
+}
+
+.section-title h1 {
+    font-size: 36px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #00366b;
+    margin: 10px 0
+}
+
+.section-title h2 {
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #212121;
+    margin: 10px 0
+}
+
+.section-title h3 {
+    font: 15px open sans;
+    color: #5a5a5a;
+    font-weight: 400;
+    margin: 10px 0;
+    line-height: 24px;
+    font-weight: 300
+}
+
+.section-title span.blue {
+    color: #1976d2
+}
+
+.section-title span.purple {
+    color: #ff9803
+}
+
+.section-title span.green {
+    color: #ff9803
+}
+
+p.regular {
+    font: 15px open sans;
+    color: #5a5a5a;
+    font-weight: 400;
+    margin: 10px 0;
+    line-height: 24px
+}
+
+p.light {
+    font: 15px open sans;
+    color: #5a5a5a;
+    font-weight: 400;
+    margin: 10px 0;
+    line-height: 24px;
+    font-weight: 300
+}
