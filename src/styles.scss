@@ -16,3 +16,17 @@ header {
         }
     }
 }
+
+footer {
+    .copyright {
+        background-color: #00415E;
+        p {
+            color: #ffffff;
+            margin: 10px 0;
+            a {
+                color: #35F991;
+                font-weight: 400;
+            }
+        }
+    }
+}
