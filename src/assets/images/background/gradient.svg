@@ -1,32 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1920px" height="1079px" viewBox="0 0 1920 1079" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 29</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="71.3354953%" id="linearGradient-1">
-            <stop stop-color="#0E63B8" offset="0%"></stop>
-            <stop stop-color="#003D79" offset="100%"></stop>
-        </linearGradient>
-        <rect id="path-2" x="0" y="0" width="1920" height="1078.64322"></rect>
-        <path d="M0,52 C128.277344,119.839196 256.072266,153.758794 383.384766,153.758794 C567.646296,153.758794 729.960756,77.5795346 914.097656,68.8167007 C1056.85786,62.0229297 1247.82726,145.706291 1489.77539,143.005221 C1575.69245,142.046057 1719.10066,111.710983 1920,52 L1920,255.517588 L0,255.517588 L0,52 Z" id="path-4"></path>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-29">
-            <g id="Group-47">
-                <mask id="mask-3" fill="white">
-                    <use xlink:href="#path-2"></use>
-                </mask>
-                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
-                <g opacity="0.0991281703" mask="url(#mask-3)" id="Rectangle-17">
-                    <g transform="translate(0.000000, 847.000000)" opacity="0.253509964">
-                        <g>
-                            <use fill="#BBDEFB" fill-rule="evenodd" xlink:href="#path-4"></use>
-                            <path stroke="#979797" stroke-width="1" d="M0.5,52.8296717 L0.5,255.017588 L1919.5,255.017588 L1919.5,52.6701858 C1718.89554,112.267343 1575.66548,142.54639 1489.78097,143.50519 C1434.70694,144.120028 1379.58785,140.336019 1321.5283,132.599656 C1275.40379,126.453622 1231.31823,118.526844 1171.31343,106.236552 C1161.71493,104.27057 1113.05492,94.1540427 1099.76672,91.4546184 C1073.28156,86.0743066 1052.49364,82.1309118 1033.07209,78.8955714 C985.593779,70.9863934 947.838292,67.7115939 914.121424,69.3161355 C874.000237,71.2254502 833.043593,76.3810767 787.554631,84.7668864 C753.005258,91.1360022 725.157794,97.2804747 664.761905,111.365463 C656.290282,113.341139 653.75966,113.930959 649.641203,114.888746 C591.06778,128.510559 556.326411,135.898215 518.607384,142.149898 C470.407176,150.13877 426.51091,154.258794 383.384766,154.258794 C256.230608,154.258794 128.6007,120.447309 0.5,52.8296717 Z"></path>
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1079" style="enable-background:new 0 0 1920 1079;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#path-2_3_);}
+	.st1{filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{opacity:9.912817e-02;mask:url(#mask-3_1_);}
+	.st4{opacity:0.2535;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:url(#path-4_1_);}
+	.st6{fill:none;stroke:#979797;}
+</style>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Group-29">
+		<g id="Group-47">
+			<g id="Mask">
+				
+					<linearGradient id="path-2_3_" gradientUnits="userSpaceOnUse" x1="810.0781" y1="690.3616" x2="810.0781" y2="689.6482" gradientTransform="matrix(1920 0 0 -1078.6432 -1554390 744653.8125)">
+					<stop  offset="0.3575" style="stop-color:#00415E"/>
+					<stop  offset="0.4573" style="stop-color:#044765"/>
+					<stop  offset="0.6033" style="stop-color:#105879"/>
+					<stop  offset="0.7779" style="stop-color:#247399"/>
+					<stop  offset="0.9731" style="stop-color:#3F98C5"/>
+					<stop  offset="1" style="stop-color:#439ECC"/>
+				</linearGradient>
+				<rect id="path-2_1_" class="st0" width="1920" height="1078.6"/>
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="899" width="1920" height="203.5">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="0" y="899" width="1920" height="203.5" id="mask-3_1_">
+				<g class="st1">
+					<rect id="path-2_2_" class="st2" width="1920" height="1078.6"/>
+				</g>
+			</mask>
+			<g id="Rectangle-17" class="st3">
+				<g transform="translate(0.000000, 847.000000)" class="st4">
+					<g>
+						<g>
+							<linearGradient id="path-4_1_" gradientUnits="userSpaceOnUse" x1="960" y1="52" x2="960" y2="255.5176">
+								<stop  offset="0.3575" style="stop-color:#00415E"/>
+								<stop  offset="0.4573" style="stop-color:#044765"/>
+								<stop  offset="0.6033" style="stop-color:#105879"/>
+								<stop  offset="0.7779" style="stop-color:#247399"/>
+								<stop  offset="0.9731" style="stop-color:#3F98C5"/>
+								<stop  offset="1" style="stop-color:#439ECC"/>
+							</linearGradient>
+							<path id="path-4" class="st5" d="M0,52c128.3,67.8,256.1,101.8,383.4,101.8c184.3,0,346.6-76.2,530.7-84.9
+								c142.8-6.8,333.7,76.9,575.7,74.2c85.9-1,229.3-31.3,430.2-91v203.5H0V52z"/>
+						</g>
+						<path class="st6" d="M0.5,52.8V255h1919V52.7c-200.6,59.6-343.8,89.9-429.7,90.8c-55.1,0.6-110.2-3.2-168.3-10.9
+							c-46.1-6.1-90.2-14.1-150.2-26.4c-9.6-2-58.3-12.1-71.5-14.8c-26.5-5.4-47.3-9.3-66.7-12.6c-47.5-7.9-85.2-11.2-119-9.6
+							C874,71.2,833,76.4,787.6,84.8c-34.5,6.4-62.4,12.5-122.8,26.6c-8.5,2-11,2.6-15.1,3.5c-58.6,13.6-93.3,21-131,27.3
+							c-48.2,8-92.1,12.1-135.2,12.1C256.2,154.3,128.6,120.4,0.5,52.8z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
 </svg>

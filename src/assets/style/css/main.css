@@ -1,6 +1,5 @@
 @import "preloader.css";
 @import "../frameworks/bootstrap.min.css";
-@import "../frameworks/fontawesome-all.min.css";
 @import "../frameworks/animate.min.css";
 @import "../frameworks/swiper.css";
 @import "navigation.css";
@@ -17,5 +16,4 @@
 @import "contacts.css";
 @import "footer.css";
 @import "responsive.css";
-@import "https://fonts.googleapis.com/css?family=Dosis:500,600,700|Open+Sans:300,400,600";
-@import "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap";
+@import "https://fonts.googleapis.com/css?family=Dosis:500,600,700|Open+Sans:300,400,600"

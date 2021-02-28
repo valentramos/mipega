@@ -11,16 +11,21 @@
     transition: all .5s
 }
 
+.main-btn {
+    font: 16px open sans;
+    font-weight: 800;
+}
+
 .button.blue {
-    background: #00366b
+    background: #00415E
 }
 
 .button.purple {
-    background: #8264fa
+    background: #439ECC
 }
 
 .button.green {
-    background: #02a0ba
+    background: #35F991
 }
 
 .button:focus {
@@ -104,11 +109,11 @@
 }
 
 .download-button.blue i {
-    color: #00366b
+    color: #2196f3
 }
 
 .download-button.blue:hover {
-    background: #00366b
+    background: #1976d2
 }
 
 .download-button.purple i {

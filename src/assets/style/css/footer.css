@@ -31,7 +31,7 @@ footer hr {
 
 .social-list li a {
     text-decoration: none;
-    color: #ff9803;
+    color: #00415E;
     -webkit-transition: all .3s;
     -o-transition: all .3s;
     transition: all .3s
@@ -57,16 +57,16 @@ footer hr {
 
 .contact-list li.title,
 .footer-list li.title {
-    font-size: 16px;
-    font-family: 'Open Sans', sans-serif;
+    font: 16px dosis;
     font-weight: 500;
-    color: #00366b;
+    color: #00415E;
     margin: 10px 0;
     font-size: 20px
 }
 
 .contact-list li i,
 .footer-list li i {
+    color: #00415E;
     font-size: 15px;
     float: left;
     line-height: 20px
@@ -84,7 +84,7 @@ footer hr {
 }
 
 .footer-list.blue li a:hover {
-    color: #2196f3
+    color: #439ECC
 }
 
 .footer-list.purple li a:hover {
@@ -92,14 +92,13 @@ footer hr {
 }
 
 .footer-list.green li a:hover {
-    color: #02a0ba
+    color: #439ECC
 }
 
 .footer-list li.title {
-    font-size: 16px;
-    font-family: 'Open Sans', sans-serif;
+    font: 16px dosis;
     font-weight: 500;
-    color: #00366b;
+    color: #00415E;
     margin: 10px 0;
     font-size: 20px
 }
@@ -122,6 +121,6 @@ footer hr {
 }
 
 .copyright a {
-    color: #212121;
+    color: #00415E;
     font-weight: 400
 }

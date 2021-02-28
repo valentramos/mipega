@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="202px" height="202px" viewBox="0 0 202 202" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval 9 Copy 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-12.5%" y="-12.5%" width="125.1%" height="125.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="2.69252232" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.0485688406">
+        <g id="mobile-application-1" transform="translate(-1004.000000, -6709.000000)" stroke="#2196F3" stroke-width="25">
+            <g id="Group-21" transform="translate(52.000000, 1100.000000)">
+                <circle id="Oval-9-Copy-6" filter="url(#filter-1)" cx="1053" cy="5710" r="82"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

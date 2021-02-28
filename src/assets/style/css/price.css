@@ -23,17 +23,17 @@
 }
 
 .price-block.green .value {
-    color: #02a0ba
+    color: #35F991
 }
 
 .price-block.green ul li:before {
-    color: #02a0ba
+    color: #35F991
 }
 
 .price-block .title {
     font: 24px dosis;
     font-weight: 600;
-    color: #212121;
+    color: #00415E;
     margin: 10px 0;
     text-transform: uppercase
 }
@@ -50,7 +50,7 @@
 .price-block .value {
     font: 36px dosis;
     font-weight: 600;
-    color: #212121;
+    color: #00415E;
     margin: 10px 0;
     margin: 25px 0
 }
@@ -77,7 +77,7 @@
     width: 60%;
     margin: 10px auto;
     display: block;
-    color: #212121;
+    color: #00415E;
     line-height: 20px
 }
 

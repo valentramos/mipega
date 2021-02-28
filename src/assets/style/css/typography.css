@@ -36,18 +36,16 @@
 }
 
 .section-title h1 {
-    font-size: 36px;
-    font-family: 'Open Sans', sans-serif;
+    font: 36px dosis;
     font-weight: 600;
-    color: #00366b;
+    color: #00415E;
     margin: 10px 0
 }
 
 .section-title h2 {
-    font-size: 24px;
-    font-family: 'Open Sans', sans-serif;
+    font: 24px dosis;
     font-weight: 600;
-    color: #212121;
+    color: #00415E;
     margin: 10px 0
 }
 
@@ -65,11 +63,11 @@
 }
 
 .section-title span.purple {
-    color: #ff9803
+    color: #8264fa
 }
 
 .section-title span.green {
-    color: #ff9803
+    color: #35F991
 }
 
 p.regular {

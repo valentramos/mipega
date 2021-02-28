@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1280px" height="171px" viewBox="0 0 1280 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="2861px" height="1039px" viewBox="0 0 2861 1039" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
-    <title>Rectangle 16 Copy</title>
+    <title>Line 2 Copy 2</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.356459466">
-        <g id="mobile-application-1" transform="translate(0.000000, -2819.000000)" fill="#BBDEFB">
-            <path d="M0,2838.9389 C28.3644882,2835.59142 72.6105072,2818.74274 110.5,2832.68491 C128.982379,2839.48585 144.606325,2860.89506 162.808594,2872.58239 C190.227332,2890.18744 208.51985,2845.91907 241.679688,2844.91311 C277.27694,2843.83322 314.175214,2906.75956 375.875,2897.84703 C412.189556,2892.60139 416.609375,2832.68491 476.164062,2844.91311 C535.71875,2857.14132 549.59375,2810.28327 593.300781,2825.01705 C606.043679,2829.31272 646.759678,2870.97297 709.550781,2880.10874 C738.817238,2884.36685 799.292969,2846.69579 842.472656,2856.32633 C885.652344,2865.95687 904.090922,2912.99781 952.898438,2903.90676 C983.060848,2898.28861 1010.51336,2869.67149 1030.25781,2832.68491 C1041.78137,2811.09824 1098.31809,2816.4506 1115.10156,2838.9389 C1135.26562,2865.95687 1165.93774,2817.45434 1203.54297,2838.9389 C1229.01432,2853.49115 1254.5,2853.49115 1280,2838.9389 L1280,2990 L0,2990 C-213.333333,2914.46945 -213.333333,2864.11575 0,2838.9389 Z" id="Rectangle-16-Copy"></path>
+    <defs>
+        <path d="M11,982.933842 L567.285871,191.017076 C667.80419,53.1682968 762.641896,-9.28139822 851.798988,3.66799129 C926.710352,14.548297 990.627679,119.220168 1136.65695,138.673433 C1249.38053,153.689885 1294.88783,14.548297 1424.09419,14.548297 C1512.05889,14.548297 1579.46245,141.757549 1704.35049,145.209455 C1824.26742,148.52396 1907.28949,47.4138078 2005.22314,39.8270099 C2121.06944,30.8525411 2222.12727,81.2492299 2308.39661,191.017076 L2850,1019" id="path-1"></path>
+        <filter x="-0.7%" y="-1.1%" width="101.4%" height="103.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="9" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="9" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.247395833 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Line-2-Copy-2">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use stroke="#A993FF" stroke-width="4" xlink:href="#path-1"></use>
         </g>
     </g>
 </svg>

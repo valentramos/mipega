@@ -1,15 +1,20 @@
+.home,
+.home-no_bg {
+    overflow: hidden
+}
+
 .home::after,
 .home-no_bg::after {
     content: "";
     display: block;
     height: 200px;
     width: 100%;
-    background: url(../../images/background/2.svg) repeat-x;
+    background: url(../../images/background/1.svg) repeat-x;
     -webkit-background-size: cover;
     background-size: cover;
     position: absolute;
     bottom: 0;
-    z-index: -1
+    z-index: -2
 }
 
 .home .home-description,
@@ -17,10 +22,9 @@
 
 .home .home-description .title,
 .home-no_bg .home-description .title {
-    font-size: 55px;
-    font-family: 'Open Sans', sans-serif;
+    font: 55px dosis;
     font-weight: 600;
-    color: #00366b;
+    color: #212121;
     margin: 10px 0
 }
 
@@ -31,12 +35,12 @@
 
 .home .home-description .title span.purple,
 .home-no_bg .home-description .title span.purple {
-    color: #ff9803
+    color: #8264fa
 }
 
 .home .home-description .title span.green,
 .home-no_bg .home-description .title span.green {
-    color: #ff9803
+    color: #02a0ba
 }
 
 .home .home-description .text,
@@ -86,6 +90,10 @@
     line-height: 24px;
     font-weight: 300;
     color: #cacaca
+}
+
+.home-no_bg {
+    overflow: visible
 }
 
 .home-no_bg::after {

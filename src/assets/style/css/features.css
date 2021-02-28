@@ -5,7 +5,7 @@
 }
 
 .advantages-list.blue li i {
-    color: #ff9803
+    color: #2196f3
 }
 
 .advantages-list.purple li i {
@@ -88,10 +88,9 @@
 
 .favorite-item h3 {
     margin: 20px 0;
-    font-size: 20px;
-    font-family: 'Open Sans', sans-serif;
+    font: 20px dosis;
     font-weight: 600;
-    color: #00366b
+    color: #00415E
 }
 
 .favorite-item p {
