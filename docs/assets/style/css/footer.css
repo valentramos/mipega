@@ -1,0 +1,121 @@
+footer {
+    position: relative
+}
+
+footer hr {
+    width: 100% !important
+}
+
+.social-list {
+    padding: 0;
+    margin: 20px 0;
+    list-style-type: none
+}
+
+.social-list.blue li a:hover {
+    color: #2196f3
+}
+
+.social-list.purple li a:hover {
+    color: #a993ff
+}
+
+.social-list.green li a:hover {
+    color: #02a0ba
+}
+
+.social-list li {
+    display: inline-block;
+    margin: 0 15px 0 0
+}
+
+.social-list li a {
+    text-decoration: none;
+    color: #00415E;
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s
+}
+
+.social-list li a:hover {
+    text-decoration: none
+}
+
+.contact-list,
+.footer-list {
+    padding: 0;
+    list-style-type: none
+}
+
+.contact-list li,
+.footer-list li {
+    line-height: 20px;
+    display: block;
+    position: relative;
+    margin: 20px 0
+}
+
+.contact-list li.title,
+.footer-list li.title {
+    font: 16px dosis;
+    font-weight: 500;
+    color: #00415E;
+    margin: 10px 0;
+    font-size: 20px
+}
+
+.contact-list li i,
+.footer-list li i {
+    color: #00415E;
+    font-size: 15px;
+    float: left;
+    line-height: 20px
+}
+
+.contact-list li p,
+.footer-list li p {
+    font: 15px open sans;
+    color: #5a5a5a;
+    font-weight: 400;
+    margin: 10px 0;
+    line-height: 24px;
+    padding: 0 0 0 30px;
+    line-height: 20px
+}
+
+.footer-list.blue li a:hover {
+    color: #439ECC
+}
+
+.footer-list.purple li a:hover {
+    color: #a993ff
+}
+
+.footer-list.green li a:hover {
+    color: #439ECC
+}
+
+.footer-list li.title {
+    font: 16px dosis;
+    font-weight: 500;
+    color: #00415E;
+    margin: 10px 0;
+    font-size: 20px
+}
+
+.footer-list li a {
+    font: 15px open sans;
+    color: #5a5a5a;
+    font-weight: 400;
+    margin: 10px 0;
+    line-height: 24px;
+    text-decoration: none;
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    line-height: 20px
+}
+
+.footer-list li a:hover {
+    text-decoration: none
+}

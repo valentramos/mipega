@@ -1,0 +1,155 @@
+.button {
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 50px;
+    font: 14px open sans;
+    font-weight: 400;
+    text-decoration: none;
+    color: #fff;
+    -webkit-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s
+}
+
+.main-btn {
+    font: 16px open sans;
+    font-weight: 800;
+}
+
+.button.blue {
+    background: #00415E
+}
+
+.button.purple {
+    background: #439ECC
+}
+
+.button.green {
+    background: #35F991
+}
+
+.button:focus {
+    outline: 0
+}
+
+.button.circle-btn {
+    height: 40px;
+    width: 40px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    padding: 0;
+    text-align: center;
+    -webkit-box-shadow: 0 12px 27px 0 rgba(0, 0, 0, .28);
+    box-shadow: 0 12px 27px 0 rgba(0, 0, 0, .28);
+    border: 1px solid transparent
+}
+
+.button.circle-btn i {
+    color: #fff;
+    line-height: 40px
+}
+
+.button.circle-btn:hover {
+    -webkit-transform: translateY(2px);
+    -ms-transform: translateY(2px);
+    transform: translateY(2px);
+    border: 1px solid #bdbdbd;
+    background: #fff;
+    -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, .35);
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, .35)
+}
+
+.button.circle-btn:hover i {
+    color: #212121
+}
+
+.button.radius-btn,
+.button.default-btn {
+    -webkit-border-radius: 25px;
+    border-radius: 25px;
+    -webkit-box-shadow: 0 13px 32px 0 rgba(0, 0, 0, .35);
+    box-shadow: 0 13px 32px 0 rgba(0, 0, 0, .35);
+    border: 1px solid transparent
+}
+
+.button.radius-btn:hover,
+.button.default-btn:hover {
+    -webkit-transform: translateY(2px);
+    -ms-transform: translateY(2px);
+    transform: translateY(2px);
+    color: #212121;
+    text-decoration: none;
+    -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, .35);
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, .35);
+    border: 1px solid #bdbdbd;
+    background: #fff
+}
+
+.button.default-btn {
+    -webkit-border-radius: 5px;
+    border-radius: 5px
+}
+
+.download-button {
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 20px;
+    font: 14px open sans;
+    font-weight: 400;
+    text-decoration: none;
+    border: 1px solid #bdbdbd;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    color: #212121;
+    -webkit-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    margin: 5px 10px 0 0;
+    text-align: left
+}
+
+.download-button.blue i {
+    color: #2196f3
+}
+
+.download-button.blue:hover {
+    background: #1976d2
+}
+
+.download-button.purple i {
+    color: #a993ff
+}
+
+.download-button.purple:hover {
+    background: #8264fa
+}
+
+.download-button.green i {
+    color: #02a0ba
+}
+
+.download-button.green:hover {
+    background: #02a0ba
+}
+
+.download-button i {
+    font-size: 35px;
+    text-align: left;
+    margin: 0 10px 0 0
+}
+
+.download-button span {
+    float: right
+}
+
+.download-button:hover {
+    text-decoration: none;
+    border: 1px solid transparent;
+    color: #fff;
+    -webkit-box-shadow: 0 13px 32px 0 rgba(0, 0, 0, .35);
+    box-shadow: 0 13px 32px 0 rgba(0, 0, 0, .35)
+}
+
+.download-button:hover i {
+    color: #fff
+}
