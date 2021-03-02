@@ -1,0 +1,103 @@
+.advantages-list {
+    padding: 0;
+    margin: 40px 0;
+    list-style-type: none
+}
+
+.advantages-list.blue li i {
+    color: #2196f3
+}
+
+.advantages-list.purple li i {
+    color: #a993ff
+}
+
+.advantages-list.green li i {
+    color: #02a0ba
+}
+
+.advantages-list.green li p {
+    color: #fff
+}
+
+.advantages-list li {
+    display: block;
+    position: relative
+}
+
+.advantages-list li i {
+    font-size: 16px;
+    position: absolute;
+    top: -webkit-calc(50% - 8px);
+    top: calc(50% - 8px)
+}
+
+.advantages-list li p {
+    font: 15px open sans;
+    color: #5a5a5a;
+    font-weight: 400;
+    margin: 10px 0;
+    line-height: 24px;
+    padding: 0 0 0 30px;
+    color: #212121
+}
+
+.features-list ul {
+    padding: 0;
+    margin: 40px 0;
+    list-style-type: none
+}
+
+.features-list ul li {
+    display: block;
+    position: relative;
+    margin: 50px 0
+}
+
+.features-list ul li img {
+    width: 50px;
+    font-size: 16px;
+    position: absolute;
+    display: block
+}
+
+.features-list ul li p {
+    font: 15px open sans;
+    color: #5a5a5a;
+    font-weight: 400;
+    margin: 10px 0;
+    line-height: 24px;
+    padding: 0 0 0 80px;
+    color: #5a5a5a
+}
+
+.features-list ul li p span {
+    color: #212121;
+    font-weight: 600
+}
+
+.favorite-item {
+    text-align: center;
+    margin: 30px
+}
+
+.favorite-item img {
+    width: 70px;
+    height: 70px
+}
+
+.favorite-item h3 {
+    margin: 20px 0;
+    font: 20px dosis;
+    font-weight: 600;
+    color: #00415E
+}
+
+.favorite-item p {
+    margin: 20px 0;
+    font-family: OpenSans-Regular;
+    font: 15px open sans;
+    font-weight: 400;
+    color: #5a5a5a;
+    line-height: 24px
+}
