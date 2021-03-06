@@ -2,13 +2,14 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { AppComponent } from './app.component';
 import { ComingsoonComponent } from './pages/comingsoon/comingsoon.component';
+import { LandingpageComponent } from './pages/landingpage/landingpage.component';
 import { PagenotfoundComponent } from './pages/pagenotfound/pagenotfound.component';
 
 const routes: Routes = [
   // { path: '', pathMatch: 'full' },
   { path: '', redirectTo: '/inicio', pathMatch: 'full' },
   // { path: '', component: ComingsoonComponent },
-  { path: 'inicio', component: AppComponent }
+  { path: 'inicio', component: LandingpageComponent }
   // { path: 'pagenotfound', component: PagenotfoundComponent },
 ];
 
