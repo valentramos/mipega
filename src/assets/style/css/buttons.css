@@ -139,7 +139,8 @@
 }
 
 .download-button span {
-    float: right
+    float: right;
+    margin-top: 8px;
 }
 
 .download-button:hover {

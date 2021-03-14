@@ -1,0 +1,38 @@
+.banner-mid {
+    background-image: url('../../../assets/images/bg-landing.png');
+    height: 30vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    img {
+        width: 25vw;
+        margin: auto;
+    }
+}
+
+.text-info {
+    font-style: italic;
+}
+
+//--- Smartphones (portrait and landscape)
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+    header .navbar .logo-1 {
+        display: block;
+    }
+    header .navbar .logo-2 {
+        display: none;
+    }
+    .img-home-banner {
+        width: 100%;
+    }
+    .banner-mid {
+        height: 16vh;
+        background-position: inherit;
+        img {
+            width: 40vw;
+        }
+    }
+}
