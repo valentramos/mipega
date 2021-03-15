@@ -35,4 +35,16 @@ and (max-device-width : 480px) {
             width: 40vw;
         }
     }
+    #features-parallax img.front {
+        width: 809px;
+        left: unset;
+        top: 10% !important;
+        left: -100%!important;
+    }
+    #faq-parallax img.front {
+        width: 420px;
+        left: unset;
+        top: 32% !important;
+        left: -12% !important;
+    }
 }
