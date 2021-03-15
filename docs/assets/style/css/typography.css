@@ -50,12 +50,11 @@
 }
 
 .section-title h3 {
-    font: 15px open sans;
+    font: 16px open sans;
     color: #5a5a5a;
     font-weight: 400;
     margin: 10px 0;
     line-height: 24px;
-    font-weight: 300
 }
 
 .section-title span.blue {
